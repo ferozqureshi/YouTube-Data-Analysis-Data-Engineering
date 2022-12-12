@@ -9,12 +9,12 @@ A category id field, which varies by region, is also present in the data. Find t
 
 ## Highlights of procedure:
 &nbsp; &nbsp;1️⃣Efficiently implemented ETL process<br/>
-• Created pipelines to store data in S3 buckets<br/>
-• Created ETL pipeline to join tables in AWS Glue Studio<br/>
-• Used AWS Athena to query databases<br/>
+&nbsp; &nbsp;&nbsp; &nbsp;• Created pipelines to store data in S3 buckets<br/>
+&nbsp; &nbsp;&nbsp; &nbsp;• Created ETL pipeline to join tables in AWS Glue Studio<br/>
+&nbsp; &nbsp;&nbsp; &nbsp;• Used AWS Athena to query databases<br/>
  
 &nbsp; &nbsp;2️⃣Data Visualization using Power BI<br/> 
-• Region which has most liked and disliked titles.<br/> 
-• Ratio of Number of likes upon number of views.<br/> 
-• Sum of likes by region.<br/> 
-• Region with most disabled comments. <br/> 
+&nbsp; &nbsp;&nbsp; &nbsp;• Region which has most liked and disliked titles.<br/> 
+&nbsp; &nbsp;&nbsp; &nbsp;• Ratio of Number of likes upon number of views.<br/> 
+&nbsp; &nbsp;&nbsp; &nbsp;• Sum of likes by region.<br/> 
+&nbsp; &nbsp;&nbsp; &nbsp;• Region with most disabled comments. <br/> 
